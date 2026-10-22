@@ -1,0 +1,4 @@
+interface:
+  display_name: "yhd-deep-reading"
+  short_description: "梳理全书框架与逐章关联，融入听想变用、知识联结、理解自测和应用"
+  default_prompt: "请用 $yhd-deep-reading 深度总结《书名》，核实资料，梳理全书框架与逐章关联，嵌入听想变用，并附理解自测和知识卡片。"
